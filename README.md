@@ -28,4 +28,5 @@
 
 ### Formação 
 **[CEFET/RJ](https://www.linkedin.com/in/jo%C3%A3o-vitor-antunes-pereira-6411a029b/)** - Ensino Médio Técnico (Informática).
+
 **[UNIVERSIDADE FEDERAL FLUMINENSE - UFF](https://www.uff.br/)**- Bacharel em Sistemas de Informação
