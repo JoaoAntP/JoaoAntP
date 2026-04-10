@@ -31,4 +31,3 @@
 
 **[UNIVERSIDADE FEDERAL FLUMINENSE - UFF](https://www.uff.br/)**- Bacharel em Sistemas de Informação
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoAntP&theme=default&show_icons=true&hide_border=true&count_private=true)
